@@ -21,5 +21,10 @@
 2.  配置打印机路径
 3.  点击按钮读取 CSV 并打印
 
+##
+本软件基于 Qt 框架开发，Qt 遵循 LGPL 开源协议。
+Qt 官方及源码获取地址：https://www.qt.io
+Copyright (C) The Qt Company Ltd.
+
 ## 授权协议
 本项目基于 **MIT License** 开源，仅供学习与测试使用，不用于任何商业用途。
